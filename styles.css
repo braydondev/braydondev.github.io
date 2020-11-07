@@ -1,3 +1,8 @@
 body{
     background-color: antiquewhite;
 }
+ul{
+    color: blue;
+    width: 500px;
+    border: 1px solid black;
+  }
