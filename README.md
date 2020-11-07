@@ -1,3 +1,3 @@
 # braydondev.github.io
 
-Braydons Website/his To Do List
+Braydons First HTML project, feel free to use anything you want!
