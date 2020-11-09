@@ -1,8 +1,30 @@
 body{
     background-color: antiquewhite;
+    
 }
-ul{
-    color: blue;
+.ToList{
+    color: rgb(22, 22, 211);
     width: 500px;
     border: 1px solid black;
   }
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+.outer {
+    border: 5px solid black;
+  }
+  
+  .box {
+    padding-right: 2px;
+    width: calc(0px);
+    background-color: rebeccapurple;
+    color: black;
+    
+  }
+.TestPad {
+    background-color: darkorange;
+    padding: 1px 
+}
